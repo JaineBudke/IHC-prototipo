@@ -1,0 +1,9 @@
+{
+"alunos":[
+    {"id":"1", "nome":"Alice dos Santos", "idade":"12 anos", "alerta":"não"},
+    {"id":"2", "nome":"Beatriz da Costa", "idade":"12 anos", "alerta":"não"},
+    {"id":"3", "nome":"Bruno da Silva", "idade":"12 anos", "alerta":"não"},
+    {"id":"4", "nome":"Fernanda Ferreira", "idade":"12 anos", "alerta":"não"}
+
+]
+}
